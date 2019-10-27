@@ -1,0 +1,4 @@
+INSERT INTO `spellgrade`
+    (`id`, `actionPoints`, `castInDiagonal`, `castInLine`, `castLineOfSight`, `criticalProbability`, `editableRange`, `globalCooldown`, `initialCooldown`, `maxCastPerTarget`, `maxCastPerTurn`, `maxStack`, `minCastInterval`, `minRange`, `needFreeCell`, `needFreeTrapCell`, `needTakenCell`, `range`, `spell`) 
+VALUES 
+    
